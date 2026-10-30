@@ -1,0 +1,23 @@
+# ==============================================================================
+# COVID-19 Multiwave Epidemiological Analysis & Machine Learning Project
+# Python Environment Dependencies
+# ==============================================================================
+
+# Core Data Manipulation & Computation
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Scientific Computing & Modeling
+scipy>=1.10.0
+scikit-learn>=1.3.0
+statsmodels>=0.14.0
+
+# Data Visualization
+matplotlib>=3.8.0
+seaborn>=0.12.0
+plotly>=5.15.0
+
+# Database & Dashboard
+pymongo>=4.3.0
+dash>=2.9.0
+streamlit>=1.28.0
